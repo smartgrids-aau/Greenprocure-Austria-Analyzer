@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper (reference to be added after publication)."
+title: "Greenprocure-Austria-Analyzer"
+authors:
+  - family-names: Sposato
+    given-names: Robert
+  - family-names: Elmenreich
+    given-names: Wilfried
+  - family-names: Adamitsch
+    given-names: Anja
+  - family-names: Hohnwald
+    given-names: Stefan
+  - family-names: Has
+    given-names: Michael
+  - family-names: Hübner
+    given-names: Renate
